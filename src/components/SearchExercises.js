@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import {Box, Stack, Button , Typography, Textfield, TextField} from '@mui/material';
+import {Box, Stack, Button , Typography,TextField} from '@mui/material';
 
 import {exerciseOptions, fetchData} from '../utils/fetchData';
 import HorizontalScrollbar from './HorizontalScrollbar';
